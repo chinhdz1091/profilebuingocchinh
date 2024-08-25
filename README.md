@@ -1,12 +1,13 @@
-# profilebuingocchinh
-<h2 align="center">Chào 👋, tôi là Chính</h2>
+
+<h2 align="center">Chào 👋, tôi là Bùi Ngọc Chính</h2>
 <p align="center">
   <h3 align="center">Tôi đến từ Vietnam 🇻🇳 </h3>
 </p>
 
 <h2 align="center">✍ Chuyên môn: Kĩ năng cfg về pl,việt hóa,code,vẽ resaupack.
 <h2 align="center"> Chuyên cung cấp plugin premium hoặc code theo yêu cầu giá hạt dẻ.
-<h2 align="center"> Hiện đang là admin của server lmanber.xyz 
+<h2 align="center"> Hiện đang là admin của server lmanber.xyz.
+<h2 align="center"> Và khi bạn đọc được dòng này thì MEMAYBEOPHIVCL
 
 <br />
 
@@ -16,20 +17,12 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="[https://www.facebook.com/profile.php?id=61552049782383]" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/chinhdz1091" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
 
