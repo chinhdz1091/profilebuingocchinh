@@ -4,8 +4,9 @@
   <h3 align="center">Tôi đến từ Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ Chuyên môn: Kĩ năng cfg về pl,việt hóa,code,vẽ resaupack.
-> Chuyên cung cấp plugin premium hoặc code theo yêu cầu giá hạt dẻ
+<h2 align="center">✍ Chuyên môn: Kĩ năng cfg về pl,việt hóa,code,vẽ resaupack.
+<h2 align="center"> Chuyên cung cấp plugin premium hoặc code theo yêu cầu giá hạt dẻ.
+<h2 align="center"> Hiện đang là admin của server lmanber.xyz 
 
 <br />
 
@@ -18,14 +19,11 @@
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="[https://www.facebook.com/profile.php?id=61552049782383]" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/chinhdz1091" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
